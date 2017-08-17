@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.android/build-cache/5c4e37791172c37334cdf2479ec416709b9de129/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="/Users/anelelizabethcervantes/Documents/ExampleAptivist/MyApplication7/app/build/intermediates/pre-dexed/debug/classes_b400eef24ddc89965adb303e27eb26e5ba551c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/anelelizabethcervantes/Documents/ExampleAptivist/MyApplication7/app/build/intermediates/pre-dexed/debug/glide-3.8.0_c421a0f0477882d5c9defb737c63ecc9876a183d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.android/build-cache/9c6da386d9bd24b99dc4feb6fc828f846d299dad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/anelelizabethcervantes/Documents/ExampleAptivist/MyApplication7/app/build/intermediates/pre-dexed/debug/classes_7593fba602e13186c91e455216707c8de416e5dc.jar" />
+    </item>
+
+</items>
